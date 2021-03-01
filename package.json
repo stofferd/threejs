@@ -18,7 +18,7 @@
     "react-three-fiber": "^4.2.4",
     "react-use-gesture": "^7.0.15",
     "styled-components": "^5.1.0",
-    "three": "^0.116.1",
+    "three": "^0.125.0",
     "typescript": "~3.7.2"
   },
   "scripts": {
